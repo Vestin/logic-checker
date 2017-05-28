@@ -1,0 +1,26 @@
+{
+    "name": "vestin/logic-checker",
+    "description": "复杂逻辑检查器",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vestin",
+            "email": "vestinzds@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev":{
+          "codeception/codeception":"*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vestin\\Checker\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Vestin\\Checker\\Tests\\": "tests/"
+        }
+    }
+}
