@@ -1,4 +1,4 @@
-# logic-checker
+logic-checker
 ----
 a reusable,SRP component for complex logic checker.
 * write DRY code
