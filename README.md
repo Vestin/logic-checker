@@ -5,6 +5,8 @@ a reusable,SRP component for complex logic checker.
 * preventing to use lots of if else statement
 * make logic checker reusable
 
+[![Build Status](https://travis-ci.org/Vestin/logic-checker.svg?branch=master)](https://travis-ci.org/Vestin/logic-checker)
+
 ### usage:
 install
 ```
